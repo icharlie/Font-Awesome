@@ -1,5 +1,4 @@
 {
-    ".idx-icon-login": "fa-power-off",
     ".idx-icon-loading": "fa-refresh",
     ".idx-icon-full-screen": "fa-eye-slash",
     ".idx-icon-reset-size": "fa-eye",
@@ -79,5 +78,6 @@
     ".idx-icon-pause": "fa-pause",
     ".idx-icon-map-pin": "fa-map-marker",
     ".idx-icon-refresh": "fa-refresh",
-    ".idx-icon-refresh-light": "fa-refresh"
+    ".idx-icon-refresh-light": "fa-refresh",
+    ".idx-icon-login": "fa-sign-in"
 }
